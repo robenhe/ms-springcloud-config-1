@@ -79,5 +79,5 @@ eureka:
 
 # 自定义配置属性
 student:
-  name: zhangsan
+  name: lisi
 #保存时注意，选择 UTF-8 保存
