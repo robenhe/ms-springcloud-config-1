@@ -51,7 +51,7 @@ mybatis:
 spring:
   profiles: prod
   application:
-    name: ms-product
+    name: ms-product-new
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
