@@ -76,4 +76,8 @@ eureka:
   instance:
     instance-id: ${spring.application.name}:${server.port}
     prefer-ip-address: true
+
+# 自定义配置属性
+student:
+  name: zhangsan
 #保存时注意，选择 UTF-8 保存
